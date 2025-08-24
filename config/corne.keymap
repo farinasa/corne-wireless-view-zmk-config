@@ -30,8 +30,8 @@
             key-positions = <14 15>;
         };
 
-        y {
-            bindings = <&kp Y>;
+        b {
+            bindings = <&kp B>;
             key-positions = <16 13>;
         };
 
@@ -50,8 +50,8 @@
             key-positions = <20 21>;
         };
 
-        b {
-            bindings = <&kp B>;
+        y {
+            bindings = <&kp Y>;
             key-positions = <19 22>;
         };
 
