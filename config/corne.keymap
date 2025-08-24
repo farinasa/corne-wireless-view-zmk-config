@@ -18,6 +18,47 @@
             key-positions = <34 35>;
             layers = <2>;
         };
+
+        t {
+            bindings = <&kp T>;
+            key-positions = <15 16>;
+            layers = <0>;
+        };
+
+        g {
+            bindings = <&kp G>;
+            key-positions = <14 15>;
+        };
+
+        y {
+            bindings = <&kp Y>;
+            key-positions = <16 13>;
+        };
+
+        c {
+            bindings = <&kp C>;
+            key-positions = <16 14>;
+        };
+
+        n {
+            bindings = <&kp N>;
+            key-positions = <19 20>;
+        };
+
+        h {
+            bindings = <&kp H>;
+            key-positions = <20 21>;
+        };
+
+        b {
+            bindings = <&kp B>;
+            key-positions = <19 22>;
+        };
+
+        game {
+            bindings = <&to 3>;
+            key-positions = <36 37>;
+        };
     };
 
     keymap {
