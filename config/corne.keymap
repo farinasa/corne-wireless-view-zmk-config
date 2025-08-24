@@ -115,10 +115,10 @@
         Game {
             display-name = "Game";
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans         &trans
-&trans  &kp A   &kp S   &kp D   &kp F   &trans    &trans  &trans  &trans  &trans  &trans         &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &kp BACKSLASH  &trans
-                        &trans  &trans  &trans    &trans  &trans  &trans
+&trans        &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
+&trans        &kp A   &kp S   &kp D   &kp F   &trans            &trans  &trans  &trans  &trans  &trans  &trans
+&kp LEFT_ALT  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans
+                              &trans  &trans  &kp LEFT_SHIFT    &trans  &trans  &trans
             >;
         };
     };
