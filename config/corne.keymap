@@ -28,36 +28,43 @@
         g {
             bindings = <&kp G>;
             key-positions = <14 15>;
+            layers = <0>;
         };
 
         b {
             bindings = <&kp B>;
             key-positions = <16 13>;
+            layers = <0>;
         };
 
         c {
             bindings = <&kp C>;
             key-positions = <16 14>;
+            layers = <0>;
         };
 
         n {
             bindings = <&kp N>;
             key-positions = <19 20>;
+            layers = <0>;
         };
 
         h {
             bindings = <&kp H>;
             key-positions = <20 21>;
+            layers = <0>;
         };
 
         y {
             bindings = <&kp Y>;
             key-positions = <19 22>;
+            layers = <0>;
         };
 
         game {
             bindings = <&to 3>;
             key-positions = <36 37>;
+            layers = <0>;
         };
     };
 
