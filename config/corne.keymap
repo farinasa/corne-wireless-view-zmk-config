@@ -78,7 +78,7 @@
 
             tapping-term-ms = <280>;
             require-prior-idle-ms = <150>;
-            flavor = "balanced";
+            flavor = "tap-preferred";
             hold-trigger-on-release;
         };
 
@@ -91,7 +91,7 @@
 
             tapping-term-ms = <280>;
             require-prior-idle-ms = <150>;
-            flavor = "balanced";
+            flavor = "tap-preferred";
             hold-trigger-on-release;
         };
     };
